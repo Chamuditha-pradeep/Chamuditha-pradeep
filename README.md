@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Chamuditha Pradeep 👋
 
-<!--
-**Chamuditha-pradeep/Chamuditha-pradeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a beginner developer from Sri Lanka.
 
-Here are some ideas to get you started:
+## Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Git and GitHub
+- SQL and Data Analysis
+- Artificial Intelligence and Machine Learning
+- Cloud Computing and DevOps
+- Cybersecurity fundamentals
+
+## My Goal
+
+To become an AI/ML Engineer with skills in Data, Cloud, MLOps and Cybersecurity.
+
+## Projects
+
+I will publish my learning projects here as I build them.
